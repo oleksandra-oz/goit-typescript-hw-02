@@ -1,5 +1,5 @@
 import React from "react";
-import s from "./LoadMoreBtn.module.css";
+import s from "./LoaderMoreBtn.module.css";
 
 interface LoadMoreBtnProps {
   onClick: () => void;

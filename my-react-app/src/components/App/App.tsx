@@ -8,6 +8,7 @@ import ImageModal from "../ImageModal/ImageModal";
 import { Toaster } from "react-hot-toast";
 import Loader from "../Loader/Loader";
 import ErrorMessage from "../ErrorMessage/ErrorMessage";
+import SearchBar from "../SearchBar/SearchBar";
 
 // Define interfaces for the data structures
 interface UnsplashImage {
